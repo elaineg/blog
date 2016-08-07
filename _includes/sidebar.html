@@ -1,0 +1,17 @@
+<div class="about col-sm-4 col-xs-12">
+        <h1 style="margin-bottom: 5px; font-weight: 400; color: darkorange; margin-left: -2px; margin-top: 30px;">Hi, I'm Elaine.</h1>
+        <p>I am a university student and front-end designer. I love contributing to global greenhouse gas emissions by constantly spewing opinions. This is my blog.</p>
+        <hr>
+        <div class="portfolio">
+        <h4>Here is my portfolio.</h4>
+        <a href="https://elaineg.github.io"><p>An exhibit of my favourite projects.</p></a>
+        <hr>
+        <h4>I write about:</h4>
+        <ul class="archives">
+ 				<a href="{{site.baseurl}}/tags/"><li><p>Tags</p></li></a>
+                {% for tag in sortedTags %}
+                    <li><a href="{{site.baseurl}}/tags/#{{ tag | cgi_escape }}">{{ tag }} ({{ site.tags[tag].size }})</a></li>
+                {% endfor %}
+            </ul>
+      </div>
+      </div>

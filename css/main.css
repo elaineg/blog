@@ -1,0 +1,76 @@
+
+@charset "utf-8";
+@import url(https://fonts.googleapis.com/css?family=Nunito:400,300);
+
+/*Global Styles*/
+body {
+  font-family: "Nunito", sans-serif;
+  font-weight: 400;
+}
+
+ul {
+  list-style: none;
+  padding-left:0;
+}
+
+li {
+  list-style-type: none;
+}
+
+@media screen and (max-width: 768px) {
+  .portfolio {
+    display: none;
+  }
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a:hover p, a:hover h1 {
+  color: darkorange;
+  transition: 0.3s;
+}
+
+h1 {
+  font-weight: 300;
+  margin-top: 0;
+  color: #999999;
+  margin-bottom: 30px;
+}
+
+p {
+  font-weight: 300;
+  font-size: 16px;
+}
+
+h4 {
+  color: darkorange;
+  margin-bottom: 5px;
+  margin-top: 30px;
+
+}
+
+hr {
+  margin-left: -10px;
+}
+
+p {
+  color: #4d4d4d;
+  margin-bottom: 30px;
+}
+
+.page {
+  float: right;
+  display: inline-block;
+}
+
+.about {
+  position: fixed;
+}
+
+@media screen and (max-width: 768px) {
+  .about {
+    position: static;
+  }
+}

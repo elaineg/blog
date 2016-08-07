@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="page col-sm-7 col-xs-12">
+        <ul class="post-list">
+          {% for post in site.posts %}
+          <li>
+          <h4>
+            <span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+          </h4>
+            <a class="post-link" href="{{post.url | prepend: site.baseurl}}"><h1>{{ post.title | escape }}</h1></a>
+          <hr>
+        </li>
+          {% endfor %}
+        </ul>
+</div>

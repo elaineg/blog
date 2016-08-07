@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Elaine</title>
+    <description>I am a university student and front-end designer. I love contributing to global greenhouse gas emissions by constantly spewing opinions. This is my blog.</description>
+    <link>http://elaineg.github.io/blog/blog/</link>
+    <atom:link href="http://elaineg.github.io/blog/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Aug 2016 02:38:59 -0700</pubDate>
+    <lastBuildDate>Sun, 07 Aug 2016 02:38:59 -0700</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Nobody likes orange</title>
+        <description>&lt;p&gt;I know better than anyone that orange is a difficult to deal with because I stubbornly insist on its complete integration into my personal projects. I’ve had to acquaint myself with its shortcomings as a color and unfortunately, this process didn’t take very long. For one, it’s impossible to place the colour next to a black object without my blog looking like a satan apologist forum. Nobody likes the iconically awful Halloween colour combo. Nobody likes orange.&lt;/p&gt;
+
+&lt;p&gt;I’ve struggled to like it my entire childhood. Orange is such an unwelcome intruder, the mom who wants to play truth or dare with you at a sleepover. You’ve never really considered it, and you don’t really want to. It’s got even less personality than yellow, which at least associates with happiness and sunshine, but has a poor public image anyway. The other day, I was considering the reasons why Team Instinct is the least popular Pokémon Go team by a landslide, and aside from the obvious reason that the name ‘Instinct’ is just an invitation to be bullied, the &lt;a href=&quot;http://blog.kissmetrics.com/gender-and-color/&quot;&gt;internet&lt;/a&gt; overwhelmingly claims that yellow and orange are the dingiest, most disliked colours. I can’t help but notice they’re similar in tone, mood, and expression: Think the shoddy yellow packaged No Name brands, neon orange emergency kit bags, ugly emojis. These two colors are cheap, alarming, and fake.&lt;/p&gt;
+
+&lt;p&gt;I figure I don’t mind these connotations at all. I’ve grown to like orange a lot and I’m sure you can already guess which loser Pokémon team I’m on. I want to be a part of a movement to reinvent orange and make it look at passably hip. Considering my embarrassing record as a trend-stopper, I’m probably doing more harm for the colour than I am helping. Nonetheless, this explains my obvious affinity for orange accents on my blog, and I’ll bet you didn’t even notice.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Aug 2016 00:00:00 -0700</pubDate>
+        <link>http://elaineg.github.io/blog/blog/thoughts/2016/08/05/orange-hatred.html</link>
+        <guid isPermaLink="true">http://elaineg.github.io/blog/blog/thoughts/2016/08/05/orange-hatred.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+      <item>
+        <title>A hundred 'Hello World!'s and counting</title>
+        <description>&lt;p&gt;Here’s another one. Hello, World!&lt;/p&gt;
+
+&lt;p&gt;With that, I finally join the leagues of infant bloggers that have successfully figured out how to beam their computer hacker messages onto the internet after a dizzying number of attempts. My head feels light, but I’m sure this is entirely due to the alarming amount of hair I’ve lost out of frustration. I’ve put this blog here to hopefully convince my mom that I am capable of doing things with my time despite my front of lying on a couch mindlessly consuming trashy media and to write to undemanding, imaginary friends instead of opening my anxiety-inducing inboxes. It’s a perfect solution.&lt;/p&gt;
+
+&lt;p&gt;As I’ve been building this site, I’ve picked up on some bits of internet culture that remind me why so many flock to the extremely left-wing bubble society that is the internet to escape from real life. Once upon a time several years ago, I myself was an informed netizen and Tumblr memes were my religion. I gradually drifted from the clique, however, when I forgot my password. At the time, there were concepts that my young age prevented me from understanding so I thought people memed on Mitt Romney during his election cycle purely because he dropped a chicken wing at a barbecue one time. I see now the more pc reason for all the flak he got was because he was the current figurehead of capitalist values. He was the purveyor of the “irl” mentality that in order to be successful, you have to get paid for your work. That logic makes sense because humans need to eat to live, but like all the other rules it doesn’t seem to apply to the internet. Here, it’s the accepted norm to create things that people can use for free. Brilliant, busy people with lives to live instead dedicate their hours to make tools for others to use, and that’s why we have Wikipedia and Kim Kardashian. Essentially, I want to thank all the smart samaritans that live on the internet forums where I copied all the complicated computer things needed to say hello to the world.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 02 Aug 2016 00:00:00 -0700</pubDate>
+        <link>http://elaineg.github.io/blog/blog/thoughts/2016/08/02/hello-worlds.html</link>
+        <guid isPermaLink="true">http://elaineg.github.io/blog/blog/thoughts/2016/08/02/hello-worlds.html</guid>
+        
+        
+        <category>thoughts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
