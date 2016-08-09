@@ -20,7 +20,7 @@ I knew they'd despise that answer, just as I did when I was young. But it's comm
 
 "People say it can get to your brain faster that way."
 
-A large, burly man was squinting me down from across the narrow floor. Sitting beside him, a mother rocking her baby, month agape. I pretended not to notice them and soldiered on. I was having way too much fun imparting all the information I had ever learned about drugs to stop now.
+A large, burly man was squinting me down from across the narrow floor. Sitting beside him, a mother rocking her baby, mouth agape. I pretended not to notice them and soldiered on. I was having way too much fun imparting all the information I had ever learned about drugs to stop now.
 
 "But why do people do it if it's not good for them?"
 
