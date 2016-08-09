@@ -2,7 +2,7 @@
 layout: post
 title:  "I taught 8 year olds how to do drugs"
 date: 2016-08-05
-tags: [thoughts, life]
+tags: [life]
 ---
 "What's crack cocaine?"
 

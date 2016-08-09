@@ -2,7 +2,7 @@
 layout: post
 title:  "A hundred 'Hello World!'s and counting"
 date:   2016-08-02
-tags: [thoughts]
+tags: [web development]
 ---
 Here's another one. Hello, World!
 
