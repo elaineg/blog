@@ -2,6 +2,7 @@
 layout: default
 page-type: post
 ---
+
 <main role="main" class="cf">
 <article class="posts">
  <article role="article" itemscope itemtype="http://schema.org/BlogPosting">
@@ -10,11 +11,22 @@ page-type: post
          <header>
            <time itemprop="dateCreated" datetime="{{page.date}}">
                <h4>{{ page.date | date: "%B %-d, %Y" }}</h4></time>
-           <h1>{{page.title}}</h1>
+           <h1 itemprop="name headline">{{page.title}}</h1>
            <header>
            {{content}}
-     </div>
+               <h6>Tagged: {% for tag in page.tags %}<a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</h6>
+               <hr>
+      <section class="post-links">
+      <h4>More:</h4>
+      {% if page.previous.url %}
+      <p class="prevLink" style="margin-bottom: 2px;"><a class="previous" href="{{ site.baseurl }}{{page.previous.url}}">{{page.previous.title}}</a></p>
+      {% endif %}
+      {% if page.next.url %}
+      <p class="nextLink"><a class="next" href="{{ site.baseurl }}{{page.next.url}}">{{page.next.title}}</a></p>
+      {% endif %}
+      </section>
+    </div>
    </div>
  </article>
-    </article>
+</article>
 </main>

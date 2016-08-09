@@ -23,8 +23,14 @@ li {
   }
 }
 
+a {
+  color: #606060;
+}
+
 a:hover {
   text-decoration: none;
+  color: darkorange;
+  transition: 0.3s;
 }
 
 a:hover p, a:hover h1 {
@@ -32,7 +38,7 @@ a:hover p, a:hover h1 {
   transition: 0.3s;
 }
 
-h1 {
+h1, h6 {
   font-weight: 300;
   margin-top: 0;
   color: #999999;
@@ -42,9 +48,11 @@ h1 {
 p {
   font-weight: 300;
   font-size: 16px;
+  color: #606060;
+  margin-bottom: 30px;
 }
 
-h4 {
+h4, h3 {
   color: darkorange;
   margin-bottom: 5px;
   margin-top: 30px;
@@ -53,11 +61,6 @@ h4 {
 
 hr {
   margin-left: -10px;
-}
-
-p {
-  color: #4d4d4d;
-  margin-bottom: 30px;
 }
 
 .page {

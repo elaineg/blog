@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "I told 8 year olds how to do drugs"
+title:  "I taught 8 year olds how to do drugs"
 date: 2016-08-05
-categories: thoughts
+tags: [thoughts, life]
 ---
 "What's crack cocaine?"
 
