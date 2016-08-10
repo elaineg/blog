@@ -11,7 +11,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 gems: [jekyll-paginate, jekyll-gist]
-title: Blog | Elaine Gaos
+title: Blog | Elaine Gao
 description: "I am a front-end web and layout designer. This is my blog."
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://elainegao.com/blog" # the base hostname & protocol for your site
