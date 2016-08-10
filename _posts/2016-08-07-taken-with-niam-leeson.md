@@ -2,7 +2,7 @@
 layout: post
 title: 'Parent picks: Taken with Niam Leeson'
 date: 2016-08-07
-tags: [movies]
+tags: [reviews, parent picks]
 ---
 Movies can be academic. At least, that's the lie I tell myself in order to justify living a life completely composed of oxygen consumption. On the bright side, I live in an ideal set of circumstances to become a movie scholar. The movie preferences of my family members are perfect clichés. My dad keeps himself sane on unspeakably awful Asian warrior soaps and mindless spy films, while my mother only watches BBC's most critically acclaimed rom coms ("My time is too precious!"). My tasteless self leans more toward the trash action genre, but I recently got baited to attend a surprise birthday on the premise we would be baking Jane Austen pastries. Actions speak louder than words, so while my dignity can't admit to having an affinity for chick flicks, I know I'm certainly not kidding anyone.
 
