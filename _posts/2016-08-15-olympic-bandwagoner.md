@@ -24,7 +24,7 @@ Something about the premise of a sporting event presented on the largest interna
 
 And what they get up to is what I live for. In competition, historic repeats and upsets are equally as fun to watch. Everyone wants to see Usain Bolt win and it makes everyone's hour when he does. Everyone wants to watch Michael Phelps claim his 230950383th butterfly title and it breaks everyone's hour when he doesn't. Out of competition, the world makes villians of a new batch of people every day. Champion soccer player Hope Solo is a sore loser. The entire Russian team might as well rebrand as Team Galactic. The Olympics are a better *Keeping up with the Kardashians* because you don't feel guilty about wasting your precious minutes when you watch them. Instead, it feels more like conducting a science experiment to see what a mass congregation of humans can produce. Hint: A lot of fun times.
 
- ![Penny Oleksiak](http://i.cbc.ca/1.3711227.1470620254!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/oleksiak-silver.jpg "O Canada to O Leksiak")
+ ![Penny Oleksiak](http://www.ctvnews.ca/polopoly_fs/1.3019020.1470619381!/httpImage/image.jpg_gen/derivatives/landscape_960/image.jpg "O Canada to O Leksiak")
 
  ![Shaunae Miller Dives to Win](https://i1.wp.com/bae.hypebeast.com/files/2016/08/shaunae-miller-rio-olympics-womens-400-meters-1.jpg?quality=95&w=1024 "Simply Iconic")
 
