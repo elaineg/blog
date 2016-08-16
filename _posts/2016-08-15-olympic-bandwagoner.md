@@ -26,7 +26,7 @@ And what they get up to is what I live for. In competition, historic repeats and
 
  ![Penny Oleksiak](http://i.cbc.ca/1.3711227.1470620254!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/oleksiak-silver.jpg "O Canada to O Leksiak")
 
- ![Shaunae Miller Dives to Win](https://www.google.ca/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=&url=http%3A%2F%2Fcdn.newsapi.com.au%2Fimage%2Fv1%2Fexternal%3Furl%3Dhttp%253A%252F%252Fcontent4.video.news.com.au%252Ffoxsports%252Fprod%252Farchive%252F2016%252F08%252F16%252FDVU_160816_OLY_MILLER_AND_RADISHA_WIN_GOLD_PKG.jpg%26width%3D650%26api_key%3Dkq7wnrk4eun47vz9c5xuj3mc&psig=AFQjCNHLmQKFCAFxuh9ryaU1RaNqL1_nHQ&ust=1471414146636429 "Simply Iconic")
+ ![Shaunae Miller Dives to Win](https://i1.wp.com/bae.hypebeast.com/files/2016/08/shaunae-miller-rio-olympics-womens-400-meters-1.jpg?quality=95&w=1024 "Simply Iconic")
 
  !["Unpatriotic" Gabby Douglas](http://l.yimg.com/ny/api/res/1.2/tF8huQLYDxjkLfim1TJfpQ--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/a2c69850a755a9d3a2cf0c28ca0c7a50 "Gabby Douglas hates America. or smth like that")
 
