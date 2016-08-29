@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Live blogging to montréal pt 2: mill ills'
-date: 2016-08-29
+date: 2016-08-30
 tags: [travel]
 ---
 *This is the second installment of my live blogging to Montréal series. For the first post, click [here.](http://www.elainegao.com/blog/live-blogging-to-montreal-1)*
