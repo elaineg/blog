@@ -2,7 +2,7 @@
 layout: post
 title: Saying goodbye is easy
 date: 2016-08-28
-tags: [life]
+tags: [life, travel]
 ---
 I used to have nightmares weeks leading up to airline travel. When I was younger, my brother always had a show called "Mayday" on, and it was a documentary-style account of all the noteworthy airline catastrophes that have ever happened in the history of ever.
 
@@ -18,4 +18,4 @@ That's in part why I think it's been so easy to say goodbye. I'm beyond fond of 
 
 Bye, Vancouver. It was easy to say that, but don't doubt you were and therefore meant the world to me. I hope I make you proud.
 
-*The stranger on the plane was the founder and CEO of a social network called [Sustainability TV](http://www.sustainabilitytelevision.com). Jason, thank you for your childlike passion to make the future a nicer place to be. I've made an account, and I'm loving all the stories of good for a change.
+*The stranger on the plane was the founder and CEO of a social network called [Sustainability TV](http://www.sustainabilitytelevision.com). Jason, thank you for your childlike passion to make the future a nicer place to be. I've made an account, and I'm loving all the stories of good for a change.*

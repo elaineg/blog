@@ -9,7 +9,6 @@ I have to apologize right off the bat for shoving extreme dosages of existential
 Traveling means staying in close proximity of other people for an extended period of time, naturally lending its way to being a real life game of survival of the fittest. Contestants battle to prove their physical and mental superiority by engaging in a number of everyday activities turned competitions. I don't get very many chances to stick it to my family, so I *have* to win.
 
 We're embarking on a roadtrip from Toronto to Montréal for the next three days, which promises to cram a dizzying number of everyone's hours into a metal box on wheels. Day one brings on the grueling decathlon specifically comprised of
-
 1. Not succumbing to motion sickness
 2. Having a bladder larger than a pinhead
 3. Only resorting to "Are we there yet?" never
