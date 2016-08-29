@@ -9,6 +9,7 @@ I have to apologize right off the bat for shoving extreme dosages of existential
 Traveling means staying in close proximity of other people for an extended period of time, naturally lending its way to being a real life game of survival of the fittest. Contestants battle to prove their physical and mental superiority by engaging in a number of everyday activities turned competitions. I don't get very many chances to stick it to my family, so I *have* to win.
 
 We're embarking on a roadtrip from Toronto to Montréal for the next three days, which promises to cram a dizzying number of everyone's hours into a metal box on wheels. Day one brings on the grueling decathlon specifically comprised of
+
 1. Not succumbing to motion sickness
 2. Having a bladder larger than a pinhead
 3. Only resorting to "Are we there yet?" never
@@ -28,7 +29,7 @@ I'm about to head to bed now. It's 2:14AM. Tomorrow, the games begin. May the be
 
 **6:05AM** Breakfast boxes are brought up to our room. It's bare bones fare: An ice cube disguised as a Granny Smith apple, a rock solid croissant, a cup of water branded "Fat-free Activia Yogurt", and a blueberry muffin no doubt made of equal parts sticky tack and peanut butter. In a moment of weakness, the effort required to peel the muffin off the walls of my mouth after every bite is not worth the title. I don't finish my breakfast, but I'm sure I won't need to eat until lunchtime. A minor setback.
 
-**8:00AM** In a devastating turn of events, I learned that my plan was, indeed, not foolproof. I had not foreseen a glaring detail: Bus wifi. A teen does not sleep when they have access to high speed internet. I watch my crown melt off my head in the form of Viserys getting his gold crown. Yeah, I'm rewatching *Game of Thrones*. You know my perfect plan is completely done.
+**8:00AM** In a devastating turn of events, I learned that my plan was, indeed, not foolproof. I had not foreseen a glaring detail: Bus wifi. A teen does not sleep when they have access to high speed internet. I watch my crown melt off my head in the form of Viserys getting his gold crown. Yeah, I'm rewatching *Game of Thrones*, and obliterating my perfect plan.
 
 **8:17AM** A little boy throws up within the first twenty minutes of our bus ride. I feel an immeasurable amount of triumph knowing that I've conquered a five-year old. Morale is high, even though it comes with a pretty bad smell.
 
