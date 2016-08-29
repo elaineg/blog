@@ -31,7 +31,8 @@ I'm about to head to bed now. It's 2:14AM. Tomorrow, the games begin. May the be
 **6:05AM** Breakfast boxes are brought up to our room. It's bare bones fare: An ice cube disguised as a Granny Smith apple, a rock solid croissant, a cup of water branded "Fat-free Activia Yogurt", and a blueberry muffin no doubt made of equal parts sticky tack and peanut butter. In a moment of weakness, the effort required to peel the muffin off the walls of my mouth after every bite is not worth the title. I don't finish my breakfast, but I'm sure I won't need to eat until lunchtime. A minor setback.
 
 **6:45AM**
-![Our tour bus](https://c3.staticflickr.com/9/8448/28695575434_d35ef2383e_c.jpg "How did this even happen")
+[![Our tour bus](https://c3.staticflickr.com/9/8448/28695575434_d35ef2383e_c.jpg)](https://flic.kr/p/KHJjQA)
+
 well ok
 
 **8:00AM** In a devastating turn of events, I learned that my plan was, indeed, not foolproof. I had not foreseen a glaring detail: Bus wifi. A teen does not sleep when they have access to high speed internet. I watch my crown melt off my head in the form of Viserys getting his gold crown. Yeah, I'm rewatching *Game of Thrones*, and obliterating my perfect plan.
