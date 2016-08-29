@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Live blogging to montréal pt 1: because i'm too hipster for facebook'
-date: 2016-08-29
+date: 2016-08-29 05:30:00
 tags: [travel]
 ---
 I have to apologize right off the bat for shoving extreme dosages of existentialism down your throat in all the previous posts. I don't usually use my brain that much and I normally I'm really funny. That was a joke. It was funny. Just take my word for it.
