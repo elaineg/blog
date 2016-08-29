@@ -26,10 +26,12 @@ I'm about to head to bed now. It's 2:14AM. Tomorrow, the games begin. May the be
 
 **5:30AM** I wake up to the sound of at least four alarms, which is my own doing. The previous night I conducted a quick scavenger hunt around the room and instructed all the clocks I could find to wake me up on time. The cacophony of unadulterated screeches mix so badly that it's almost harmonious. I'm nearly lulled back to sleep, but I steel myself and wiggle out from my comforter cocoon. My dad hit snooze and my mom's already muttering that she's beyond the rules. I win.
 
-**6:05AM** Breakfast boxes are brought up to our room. It's bare bones fare: An ice cube disguised as a Granny Smith apple, a rock solid croissant, a cup of water branded "Fat-free Activia Yogurt", and a blueberry muffin no doubt made of equal parts sticky tack and peanut butter. In a moment of weakness, the effort required to peel the muffin off the walls of my mouth after every bite is not worth the title. I don't finish it, but I'm sure I won't need to eat until lunchtime. A minor setback.
+**6:05AM** Breakfast boxes are brought up to our room. It's bare bones fare: An ice cube disguised as a Granny Smith apple, a rock solid croissant, a cup of water branded "Fat-free Activia Yogurt", and a blueberry muffin no doubt made of equal parts sticky tack and peanut butter. In a moment of weakness, the effort required to peel the muffin off the walls of my mouth after every bite is not worth the title. I don't finish my breakfast, but I'm sure I won't need to eat until lunchtime. A minor setback.
 
 **8:00AM** In a devastating turn of events, I learned that my plan was, indeed, not foolproof. I had not foreseen a glaring detail: Bus wifi. A teen does not sleep when they have access to high speed internet. I watch my crown melt off my head in the form of Viserys getting his gold crown. Yeah, I'm rewatching *Game of Thrones*. You know my perfect plan is completely done.
 
 **8:17AM** A little boy throws up within the first twenty minutes of our bus ride. I feel an immeasurable amount of triumph knowing that I've conquered a five-year old. Morale is high, even though it comes with a pretty bad smell.
 
-There is a two hour stretch of road to cover. I'll update if I can, but here's to hoping that I won't have a chance to. 
+**9:24AM** SOS. I am. starving. Cannot think straight because of my howling bowel. My fingeuers are gradually losing dextrerity cannot type must have sustaenance help
+
+I may nto make it. Hopefully you'll get to see an uipddate soon. if not... please send crisis reflief in form of gummy worms and choclotate.
