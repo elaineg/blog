@@ -42,4 +42,4 @@ well ok
 
 I may nto make it. Hopefully you'll get to see an uipddate soon. if not... please send crisis reflief in form of gummy worms and choclotate.
 
-**Heures à Montréal:** 3.5
+**Heures à Montréal:** 4
