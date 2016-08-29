@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Live blogging to montréal pt 2: mill ills
+title: Live blogging to montréal pt 2 mill ills
 date: 2016-08-23
 tags: [travel]
 ---
