@@ -8,15 +8,17 @@ I have to apologize right off the bat for shoving extreme dosages of existential
 
 Traveling means staying in close proximity of other people for an extended period of time, naturally lending its way to being a real life game of survival of the fittest. Contestants battle to prove their physical and mental superiority by engaging in a number of everyday activities turned competitions. I don't get very many chances to stick it to my family, so I *have* to win.
 
-We're embarking on a roadtrip from Toronto to Montréal for the next three days, which promises to cram a dizzying number of everyone's hours into a metal box on wheels. Day one brings on the grueling decathlon specifically comprised of
-1. Not succumbing to motion sickness
-2. Having a bladder larger than a pinhead
-3. Only resorting to "Are we there yet?" never
-4. Being on time
-5. Not being an asshole to the bus driver
-6. Laughing at the tour guide's jokes
-7. Not pressing snooze when your alarm rings at 5:30 in the morning
-8. Eating all your food instead of just four bites and claiming you're super full when everyone knows that twenty minutes down the road you'll be complaining about how starving you are.
+We're embarking on a road trip from Toronto to Montréal for the next three days, which promises to cram a dizzying number of everyone's hours into a metal box on wheels. Day one brings on the grueling decathlon specifically comprised of
+
+1. • Not succumbing to motion sickness
+2. • Having a bladder larger than a pinhead
+3. • Only resorting to "Are we there yet?" never
+4. • Being on time
+5. • Not being an asshole to the bus driver
+6. • Laughing at the tour guide's jokes
+7. • Not pressing snooze when your alarm rings at 5:30 in the morning
+8. • Eating all your food instead of just four bites and claiming you're super full when everyone knows that twenty minutes down the road you'll be complaining about how starving you are.
+
 
 Roadtrips are my absolute weakness so I have to go in with a viable game plan. The night before a 5:30AM wake-up call, I stay up until 2AM (11PM PST) to ensure I get as little sleep as possible. Ideally, I'm aiming high and hoping that I'll be out cold for the duration of the trip, giving me an automatic pass on all of the day's events. Sleeping people don't tend to throw up.
 
