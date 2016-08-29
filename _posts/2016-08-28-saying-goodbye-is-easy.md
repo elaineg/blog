@@ -18,4 +18,4 @@ That's in part why I think it's been so easy to say goodbye. I'm beyond fond of 
 
 Bye, Vancouver. It was easy to say that, but don't doubt you were and therefore meant the world to me. I hope I make you proud.
 
-*The stranger on the plane was the founder and CEO of a social network called ![Sustainability TV](http://www.sustainabilitytelevision.com). Jason, thank you for your childlike passion to make the future a nicer place to be.
+*The stranger on the plane was the founder and CEO of a social network called [Sustainability TV](http://www.sustainabilitytelevision.com). Jason, thank you for your childlike passion to make the future a nicer place to be.
