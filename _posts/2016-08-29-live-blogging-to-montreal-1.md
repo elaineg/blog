@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Live blogging to montréal pt 1: because i'm too hipster for facebook'
+title: 'Live blogging to montréal pt 1: because i'm too hip for facebook'
 date: 2016-08-29 05:30:00
 tags: [travel]
 ---
@@ -17,7 +17,7 @@ We're embarking on a road trip from Toronto to Montréal for the next three days
 5. • Not being an asshole to the bus driver
 6. • Laughing at the tour guide's jokes
 7. • Not pressing snooze when your alarm rings at 5:30 in the morning
-8. • Eating all your food instead of just four bites and claiming you're super full when everyone knows that twenty minutes down the road you'll be complaining about how starving you are.
+8. • Eating all your food at mealtimes instead of just four bites and claiming you're super full when everyone knows that twenty minutes down the road you'll be complaining about how starving you are.
 
 
 Road trips are my absolute weakness so I have to go in with a viable game plan. The night before a 5:30AM wake-up call, I stay up until 2AM (11PM PST) to ensure I get as little sleep as possible. Ideally, I'm aiming high and hoping that I'll be out cold for the duration of the trip, giving me an automatic pass on all of the day's events. Sleeping people don't tend to throw up.
@@ -31,7 +31,7 @@ I'm about to head to bed now. It's 2:14AM. Tomorrow, the games begin. May the be
 **6:05AM** Breakfast boxes are brought up to our room. It's bare bones fare: An ice cube disguised as a Granny Smith apple, a rock solid croissant, a cup of water branded "Fat-free Activia Yogurt", and a blueberry muffin no doubt made of equal parts sticky tack and peanut butter. In a moment of weakness, the effort required to peel the muffin off the walls of my mouth after every bite is not worth the title. I don't finish my breakfast, but I'm sure I won't need to eat until lunchtime. A minor setback.
 
 **6:45AM**
-[![Our tour bus](https://c3.staticflickr.com/9/8448/28695575434_d35ef2383e_c.jpg)](https://flic.kr/p/KHJjQA)
+![Our tour bus](images/badderbus.png)
 
 well ok
 
