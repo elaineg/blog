@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ! "Live blogging to montréal pt 2: mill ills"
+title: "Live blogging to montréal pt 2: mill ills"
 date: 2016-08-29 11:00:00
 tags: [travel]
 ---
