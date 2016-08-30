@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Live blogging to montréal pt 2: mill ills"
+title: Live blogging to montréal pt 2 mill ills
 date: 2016-08-29 11:00:00
 tags: [travel]
 ---
@@ -14,12 +14,12 @@ It was going to take some kind of Christmas miracle to revive me, because obviou
 
 That satiated my appetite for winning, and if your entire being is dedicated to first place, there is no difference between your food appetite and your competitive one. For the time being, I rode on a wave of accomplishment.
 
-And I mean that literally. Somewhere along this timeline, my tour group had boarded a boat cruise and we were now gliding over the waters of Lake Ontario. We were visiting a popular tourist destination called mill ills, or if you're offended by that, "Mille-Îles". The people that spoke English also had a tendency to refer to the attraction as the 1000 Islands, but my life philosophy has always been to go big or go home. Why play it safe?
+And I mean that literally. Somewhere along this timeline, my tour group had boarded a boat cruise and we were now gliding over the waters of Lake Ontario. We were visiting a popular tourist destination called mill ills, or if you're offended by that, "Mille-Îles". The people that spoke English also had a tendency to refer to the attraction as the 1000 Islands, and I thought that was a gross exaggeration. My life philosophy has always been to go big or go home, so I understand why you'd shoot for such a large number. Why play it safe?
 
 ![On a cruise](images/inside.png "Inside view ft. bro")
 
 
-It's difficult to understand the scale of Lake Ontario, but the fact that there are around 1,800 islands in a small part of the lake really helps put things in perspective. I thought it was just a catchy but exaggerated name, but once I learned that the smallest islands are no more than a few meters wide, I could begin to believe the staggering numbers. This is one such island.
+No, there really are 1,000 islands. In fact, there are almost 2,000 islands. It's difficult to understand the scale of Lake Ontario, but the fact that there are around 1,800 islands in a small part of the lake really helps put things in perspective. However, the definition of "island" is pretty loose, so the smallest islands are no more than a few meters wide, I could begin to believe the staggering numbers. This is one such island.
 
 ![Very small island](images/tinyhouse.png "tiny tower")
 
