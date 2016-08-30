@@ -31,7 +31,7 @@ I'm about to head to bed now. It's 2:14AM. Tomorrow, the games begin. May the be
 **6:05AM** Breakfast boxes are brought up to our room. It's bare bones fare: An ice cube disguised as a Granny Smith apple, a rock solid croissant, a cup of water branded "Fat-free Activia Yogurt", and a blueberry muffin no doubt made of equal parts sticky tack and peanut butter. In a moment of weakness, the effort required to peel the muffin off the walls of my mouth after every bite is not worth the title. I don't finish my breakfast, but I'm sure I won't need to eat until lunchtime. A minor setback.
 
 **6:45AM**
-![Our tour bus](files/images/badderbus.png)
+![Our tour bus](/images/badderbus.png)
 
 well ok
 
