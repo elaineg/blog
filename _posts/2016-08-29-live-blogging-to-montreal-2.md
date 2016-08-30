@@ -16,18 +16,18 @@ That satiated my appetite for winning, and if your entire being is dedicated to 
 
 And I mean that literally. Somewhere along this timeline, my tour group had boarded a boat cruise and we were now gliding over the waters of Lake Ontario. We were visiting a popular tourist destination called mill ills, or if you're offended by that, "Mille-Îles". The people that spoke English also had a tendency to refer to the attraction as the 1000 Islands, but my life philosophy has always been to go big or go home. Why play it safe?
 
-![On a cruise](/files/images/inside.png "Inside view ft. bro")
+![On a cruise](files/images/inside.png "Inside view ft. bro")
 
 
 It's difficult to understand the scale of Lake Ontario, but the fact that there are around 1,800 islands in a small part of the lake really helps put things in perspective. I thought it was just a catchy but exaggerated name, but once I learned that the smallest islands are no more than a few meters wide, I could begin to believe the staggering numbers. This is one such island.
 
-![Very small island](/files/images/tinyhouse.png "tiny tower")
+![Very small island](files/images/tinyhouse.png "tiny tower")
 
 A well-known fact is that my dad is a tech genius. He just gets it and knows how to make things work, no matter how complicated it is. It's his job. So when I asked him to take some tourist photos of me for you to enjoy using an iPhone, arguably the world's most accessible piece of technology, it goes without saying that he killed it.
 
-![Overexposed Elaine](/files/images/overexposed.png "I've always gotten compliments on my 1000 watt smile")
+![Overexposed Elaine](files/images/overexposed.png "I've always gotten compliments on my 1000 watt smile")
 
-![Underexposed Elaine](/files/images/underexposed.png "But I'd also make a really good spy because I can blend in when I want to")
+![Underexposed Elaine](files/images/underexposed.png "But I'd also make a really good spy because I can blend in when I want to")
 
 That is one wild adventure down. I'm not sure how many more trials I stand, but wish me luck.
 
