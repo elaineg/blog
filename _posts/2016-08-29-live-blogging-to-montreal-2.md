@@ -23,7 +23,7 @@ It's difficult to understand the scale of Lake Ontario, but the fact that there 
 
 ![Very small island](images/tinyhouse.png "tiny tower")
 
-A well-known fact is that my dad is a tech genius. He just gets it and knows how to make things work, no matter how complicated it is. It's his job. So when I asked him to take some tourist photos of me for you to enjoy using an iPhone, arguably the world's most accessible piece of technology, it goes without saying that he killed it.
+A well-known fact is that my dad is a tech genius. He just gets it and knows how to make things work, no matter how complicated it is. It's his job. So when I asked him to take some tourist photos of me for you to enjoy using an iPhone, arguably the world's most accessible piece of technology, it goes without saying that he killed it. Here are the only photos I have of myself, it's all I need, really.
 
 ![Overexposed Elaine](images/overexposed.png "I've always gotten compliments on my 1000 watt smile")
 
