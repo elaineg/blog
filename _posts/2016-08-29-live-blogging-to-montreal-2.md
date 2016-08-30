@@ -19,7 +19,7 @@ And I mean that literally. Somewhere along this timeline, my tour group had boar
 ![On a cruise](images/inside.png "Inside view ft. bro")
 
 
-No, there really are 1,000 islands. In fact, there are almost 2,000 islands. It's difficult to understand the scale of Lake Ontario, but the fact that there are around 1,800 islands in a small part of the lake really helps put things in perspective. However, the definition of "island" is pretty loose, so the smallest islands are no more than a few meters wide, I could begin to believe the staggering numbers. This is one such island.
+No, there really are 1,000 islands. In fact, there are almost 2,000 islands. It's difficult to understand the scale of Lake Ontario, but the fact that there are around 1,800 islands in a small part of the lake really helps put things in perspective. However, the definition of "island" is pretty loose, so the smallest islands are no more than a few meters wide. After seeing a cluster of these tiny landmasses, I could begin to comprehend the staggering numbers. This is one such island.
 
 ![Very small island](images/tinyhouse.png "tiny tower")
 
