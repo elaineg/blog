@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Live blogging to montréal pt 1 because i'm too hip for facebook'
+title: 'Live blogging to montréal pt 1: because i'm too hip for facebook'
 date: 2016-08-29 05:30:00
 tags: [travel]
 ---
