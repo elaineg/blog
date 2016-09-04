@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Where in the world is elaine now?'
+title: Where in the world is elaine now?
 date: 2016-09-04
 tags: [travel]
 ---

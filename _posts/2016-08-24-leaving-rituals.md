@@ -20,4 +20,4 @@ Assessing your life to take stock of everything you'll need to live for half a y
 
 6. **Hide from your problems.** oh my god i have to pay like my own taxes
 
-Bless you. Good luck. And if you're a friend of mine: Bye!! See you soon! I'll miss you a lot!! Let's talk sometime!!! 
+Bless you. Good luck. And if you're a friend of mine: Bye!! See you soon! I'll miss you a lot!! Let's talk sometime!!!
