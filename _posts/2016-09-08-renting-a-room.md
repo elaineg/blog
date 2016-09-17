@@ -2,7 +2,7 @@
 layout: post
 title: I almost signed a rent lease yesterday
 date: 2016-09-08
-tags: First Year University
+tags: [the frosh life]
 ---
 I flew halfway across the country to attend university, but instead of living in the school dorms, I decided to look around the area for comparable accommodations that come with better prices. I found a student housing co-op that asked almost half the price of living on the university residence, while being located in the prime area of the university district. I moved into this house a couple days ago.
 
@@ -48,8 +48,8 @@ I told her that was a pretty substantial amount, and I then I wondered if paying
 
 What ended up happening is that I contacted the landlord directly at 11:30PM and asked to clarify the price and the lease. He promised to give me a new lease and even offered me the price I really wanted. I still wanted it. It was so close.
 
-But it was 11:30, and at that point in time I really wanted a bed to sleep on instead a pile of uncertainty for the next few days. Maybe I ended up making a rash decision, but I was tired.
+But it was 11:30, and at that point in time I really wanted a bed to sleep on instead of a pile of uncertainty for the next few days. Maybe I ended up making a rash decision, but I was tired.
 
 "No, thank you."
 
-That's how I ended up almost signing my first lease. 
+That's how I ended up almost signing my first lease.
