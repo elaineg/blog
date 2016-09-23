@@ -26,6 +26,6 @@ I'm home now, or at least what will be home for the next year. My parents droppe
 
 I'm not exactly living on residence: I'm living in student housing co-op. Co-ops are businesses where the customers actually own the business. Long story short, I paid a deposit to "own" this place, and every week I have to do mandatory kitchen service. Most of the people that live in this co-op are older than first-year, and that's obviously because it's easier to live alone if you already know everyone in the area. I did like the idea of trying to figure things out myself first year, so I took the plunge anyway and signed up.
 
-Move in day here is Sept 1st, which is three days earlier than students living on residence. It's neat because I've gotten a chance to wander the city before it gets really crowded. Creaky oldtown vibes aside, Kingston is a gorgeous city full of history.
+And I dread to say this because the finality makes me want to get on a flight back to Vancouver, but I can only kid myself for so long. This old, penitentiary-laden town is home now. 
 
 ![The city](http://www.ctvnews.ca/polopoly_fs/1.1499014.1381920074!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg)
