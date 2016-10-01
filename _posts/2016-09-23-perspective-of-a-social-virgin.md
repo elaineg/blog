@@ -4,7 +4,7 @@ title: What drunk people look like to a social virgin
 date: 2016-09-30
 tags: [the frosh life]
 ---
-Allow me to begin by updating those ignorant of campus lingo (AKA me 48 hours ago): A "social" is the new term for "playdate at my place". To tweens, it's better known as "hanging out". YA linguistics is scientifically proven to be the fastest-evolving form of language.
+Allow me to begin by updating those ignorant of campus lingo (aka me 48 hours ago): A "social" is the new term for "playdate at my place". To tweens, it's better known as "hanging out". Don't get this mixed up. We get offended.
 
 Because university students now think they've reached the age where they're hip and old, the main attraction at a social is coming up with new creative ways to shove varying forms of flammable fluid down their throats. It's no joke. It's a grueling olympics made of skills that will never be applicable elsewhere, and having absolutely no shame. Tongue flip cup, anyone?
 
