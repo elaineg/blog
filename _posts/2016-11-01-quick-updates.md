@@ -2,7 +2,7 @@
 layout: post
 title: "Quick updates"
 date: 2016-11-01
-tags: [the frosh life]
+tags: [the frosh life, quick updates]
 ---
 I know you're dying to know what I've done with my life, so here's a quick list to bring you up to speed.
 
@@ -14,7 +14,7 @@ I know you're dying to know what I've done with my life, so here's a quick list 
 
 4. **Wore socks to bed.** Even worse, it's rapidly become a habit, and I have designated bed socks now. The weather has been briefly dipping into subzero numbers. It snowed last week, and I have come to realize that I am unable to function until I thaw my toes out in the morning. I know my old self from pre college days would be aghast at the monster I have become.
 
-5. **Burned the roof of my mouth.** Kingston enters a pizza frenzy during half-off code season. It turns out that my fatal flaw is an inability to consume pizza without burning the roof of my mouth. The only thing I was able to consume for the previous week to avoid irritating all my mouth blisters was spinach. I'm perishing. 
+5. **Burned the roof of my mouth.** Kingston enters a pizza frenzy during half-off code season. It turns out that my fatal flaw is an inability to consume pizza without burning the roof of my mouth. The only thing I was able to consume for the previous week to avoid irritating all my mouth blisters was spinach. I'm perishing.
 
 6. **Was stripped of my Asian superiority rights.** I like to think that I'm pretty damn good at using chopsticks, but I learned the distinction between what I want and the real world. I was challenged to a game where the objective was to transfer individual uncooked grains of rice from one bowl to another, and my opponents had never used chopsticks more technical than your average sushi takeout pairs. I'm never going to live down the shame of that day. I just hope my parents don't disown me.
 
