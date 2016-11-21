@@ -13,9 +13,11 @@ It doesn't help that I decided neglect facing my impending doom by signing up fo
 ![Poppins font](https://designschool.canva.com/wp-content/uploads/sites/2/2015/10/poppins-free-font.png "This is the font I decided on.")
 
 **Stage 2: Validation.** First, map out the site's preliminary grid and mark where all the elements are going to go. Next, open Snapchat, take a photo, and get a nice unrelated filter on top of your pixellated computer screen (I have a special affinity for the speedometer). To caption, choose from one of the following options:
-    1. "I SUCK AT DESIGN!!!"
-    2. "OMG THIS IS SOOOOOOO UGLY SOS (:O)"
-    3. "rofl"
+
+    * "I SUCK AT DESIGN!!!"
+    * "OMG THIS IS SOOOOOOO UGLY SOS (:O)"
+    * "rofl"
+
 Spend around 60% of your total project time here.
 
 **Stage 3: Uncertainty and/or Repulsion.** Develop a deep, burning hatred for the absolute garbage your screen is trying to pass as your handiwork. Trash the file and start again. This step is crucial to the completion of all projects and cannot be skipped.
@@ -26,4 +28,4 @@ Spend around 60% of your total project time here.
 
 Considering that I maxed out on three hours of sleep last night and am no further along on my overwhelming homework load than I was Friday, I'm really hoping I don't make these sudden creative urges a habit. Then again, this blog post didn't write itself. Goddamn.
 
-However, [let me know what you think](mailto:16eg1@queensu.ca) of the campaign or if you find any bugs yourself!
+However, [let me know what you think](mailto:16eg1@queensu.ca) of the campaign or if you find any bugs yourself! I'm really hoping that this will earn me the chance to go to QMAC in Toronto. I'll keep you posted!

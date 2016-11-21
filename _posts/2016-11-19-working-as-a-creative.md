@@ -12,7 +12,7 @@ Even though I got the chance to design for an actual brand, I was by no means ex
 
 My first creative project was to remake an old infographic. I wanted to prove myself to my employer, but I only had three hours to do it. For the record, I don't think I've ever designed ANYTHING in less than three hours. I told him I'd get it done in that time frame anyway.
 
-![Job Infographic that took me an hour too long](images/JobInfographic.png)
+![Job Infographic that took me an hour too long](images/JobInfographic.png "Job Infographic that took me an hour too long")
 
 Yeah. I didn't.
 
@@ -24,8 +24,10 @@ Not here. This is less design and more of me just being a graphics machine. Ther
 
 And it's not all bad. I still find ways to add a personal touch wherever I can that will definitely go unnoticed by others. An upcoming Christmas campaign will look like a candy cane when aligned in a grid:
 
-![It'll be our little secret](images/12daysofxmas.png)
+![It'll be our little secret](images/12daysofxmas.png "It'll be our little secret")
 
 **3. You'll get pushed out of your comfort zone.** When I started I was hit by a reality check in the form of a [brand guide](https://myams.org/wp-content/uploads/2015/07/Updated-Visual-Identity-Standards.pdf "The AMS Visual Standards Guide"). I actually love the guide because it lays out the guidelines of color and logo placement instead of leaving it all up in the air, but for the first time I've been forced to use a serif font. Not a nice serif, like a slab, but Palatino Linotype. For one, it is spelled too similarly to Papyrus for my liking, and I have only ever used a similar font in design when showing people what kind of fonts you should avoid. It's a bittersweet feeling.
 
 But beyond having to work with fonts and colours that I generally shy away from, I've also had to expand my horizons. I mass manufacture graphics and because I have a certain style, the threat that everything will end up looking the same is imminent. Working with new brushes, textures, and branching out from my love of flat design has been the biggest challenge of my work so far.
+
+I'll continue to update you on what I'm working on! Until then, HAPPY EARLY CHIRSTMAS!!! 
