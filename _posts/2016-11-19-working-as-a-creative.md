@@ -30,4 +30,4 @@ And it's not all bad. I still find ways to add a personal touch wherever I can t
 
 But beyond having to work with fonts and colours that I generally shy away from, I've also had to expand my horizons. I mass manufacture graphics and because I have a certain style, the threat that everything will end up looking the same is imminent. Working with new brushes, textures, and branching out from my love of flat design has been the biggest challenge of my work so far.
 
-I'll continue to update you on what I'm working on! Until then, HAPPY EARLY CHIRSTMAS!!! 
+I'll continue to update you on what I'm working on! Until then, HAPPY EARLY CHRISTMAS!!! 

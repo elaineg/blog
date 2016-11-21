@@ -14,9 +14,9 @@ It doesn't help that I decided neglect facing my impending doom by signing up fo
 
 **Stage 2: Validation.** First, map out the site's preliminary grid and mark where all the elements are going to go. Next, open Snapchat, take a photo, and get a nice unrelated filter on top of your pixellated computer screen (I have a special affinity for the speedometer). To caption, choose from one of the following options:
 
-    * "I SUCK AT DESIGN!!!"
-    * "OMG THIS IS SOOOOOOO UGLY SOS (:O)"
-    * "rofl"
+* "I SUCK AT DESIGN!!!"
+* "OMG THIS IS SOOOOOOO UGLY SOS (:O)"
+* "rofl"
 
 Spend around 60% of your total project time here.
 
