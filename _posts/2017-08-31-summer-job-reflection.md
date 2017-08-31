@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "A Queen's University Marketing and Design Assistant reflects on her first summer job"
+title: "I was the youngest intern, but I got it done fastest and it looked the best"
 date: 2017-08-31
 tags: [design, life]
 ---
-I'm writing as much as I can currently because I just launched my blog again and I'm doing my best to drown out shameful old blog posts written by my younger self.
+*I'm writing as much as I can currently because I just launched my blog again and I'm doing my best to drown out shameful old blog posts written by my younger self.*
 
 **Today was the second last day of my summer job.** Going in, I thought I had a good idea of what to expect and I didn't think it would be much of a challenge- I worked there part time during the school year prior. My project was to rehaul and reupload the university's new Grad Maps ([found here](http://careers.queensu.ca/gradmaps)), which are documents that outline the basics of each and every single graduate program at Queen's. At the core, they provide prospective and current students with guidance regarding the academic, extra curricular, and career aspects of a given degree, and the career outcomes available or skills they can expect to gain. The project requires complicated collaboration across all the many stakeholders across campus to create a consistent looking product, and due to the scale of this project Queen's is the first university in Canada to have created this product. 
 
