@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Queen's University Marketing and Design Assistant reflects on her real first summer job"
+title: "A Queen's University Marketing and Design Assistant reflects on her first summer job"
 date: 2017-08-31
 tags: [design, life]
 ---
