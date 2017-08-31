@@ -2,7 +2,7 @@
 layout: post
 title: "Quick updates"
 date: 2016-11-01
-tags: [the frosh life, quick updates]
+tags: [the frosh life]
 ---
 I know you're dying to know what I've done with my life, so here's a quick list to bring you up to speed.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "The post you're actually going to read"
 date: 2016-11-17
-tags: [the frosh life, quick updates]
+tags: [the frosh life]
 ---
 Realistically, no one is actually going to read what I wrote on the other post!!! So here's a quick rundown of what my life looks like #2:
 
