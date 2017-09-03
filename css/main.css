@@ -65,7 +65,10 @@ h2, h5 {
   font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   font-weight: 400;
+}
 
+h3 {
+  font-family: "Roboto", sans-serif;
 }
 
 hr {
