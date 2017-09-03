@@ -11,7 +11,7 @@
 {% assign sortedTags = site_tags | split:',' | sort %}
         <ul class="tag-cloud">
            {% for tag in sortedTags %}
-               <li><a href="{{ site.baseurl }}/tags.html#{{ tag | cgi_escape }}"><h6 style="margin-bottom: 1px;">{{ tag }} [{{ site.tags[tag].size }}]</h6></a></li>
+               <li><a href="{{ site.baseurl }}/tags.html#{{ tag | cgi_escape }}"><h6 style="margin-bottom: 2px;">{{ tag }} [{{ site.tags[tag].size }}]</h6></a></li>
            {% endfor %}
        </ul>
       </div>
