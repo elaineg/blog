@@ -14,10 +14,10 @@ title: Tags
   <h5 id="{{ tag | cgi_escape }}">{{ tag }}</h5>
   <ul class="taglist">
   {% for post in site.tags[tag] %}
-    <li><p style="margin-bottom: 0;">
+    <li><h6 style="margin-bottom: 1px;">
           <time itemprop="dateCreated" datetime="{{post.date}}">
                 {{ post.date | date: "%b %d, %Y" }}</time> | <a href="{{site.baseurl}}{{post.url}}" rel="bookmark" title="Permanent Link to {{site.baseurl}}{{post.url}}">
-                {{post.title}}</a></p>
+                {{post.title}}</a></h6>
     </li>
   {% endfor %}
 {% endfor %}
