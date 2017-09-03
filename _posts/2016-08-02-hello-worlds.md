@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "A hundred 'Hello World!'s and counting"
+title:  "A hundred 'hello world!'s and counting"
 date:   2016-08-02
-categories: thoughts
+tags: [web development]
 ---
 Here's another one. Hello, World!
 
