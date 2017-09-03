@@ -11,7 +11,7 @@ title: Tags
 {% assign sortedTags = site_tags | split:',' | sort %}
 
 {% for tag in sortedTags %}
-  <h4 id="{{ tag | cgi_escape }}">{{ tag }}</h4>
+  <h5 id="{{ tag | cgi_escape }}">{{ tag }}</h5>
   <ul class="taglist">
   {% for post in site.tags[tag] %}
     <li><p style="margin-bottom: 0;">
