@@ -5,6 +5,7 @@
 /*Global Styles*/
 body {
   font-family: "Lora", serif;
+    font-weight: 400;
 }
 
 .navbar-brand img {
@@ -53,7 +54,6 @@ h6 {
 }
 
 p {
-  font-weight: 300;
   font-size: 20px;
   margin-bottom: 30px;
 }
