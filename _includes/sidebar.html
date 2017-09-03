@@ -2,7 +2,6 @@
         <a class="navbar-brand" href="http://elainegao.com">
           <img class="img-fluid img-centered" src="images/eg-logo-grey.png">
         </a>
-        <hr>
         <div class="portfolio">
         <h2>Blog</h2>
             <a href="http://elainegao.com/blog"><h6>I'm always having revelations. Sometimes, I'll share them here.</h6></a>
@@ -12,7 +11,7 @@
 {% assign sortedTags = site_tags | split:',' | sort %}
         <ul class="tag-cloud">
            {% for tag in sortedTags %}
-               <li><a href="{{ site.baseurl }}/tags/index.html#{{ tag | cgi_escape }}"><p style="margin-bottom: 0;">{{ tag }} [{{ site.tags[tag].size }}]</p></a></li>
+               <li><a href="{{ site.baseurl }}/tags.html#{{ tag | cgi_escape }}"><p style="margin-bottom: 0;">{{ tag }} [{{ site.tags[tag].size }}]</p></a></li>
            {% endfor %}
        </ul>
       </div>
