@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I'm a Student Senator and This Is How I Voted"
+title: "I'm a Student Senator and This Is How I Voted at the First ComSoc Assembly"
 date: 2017-09-12
 tags: [student government]
 ---
